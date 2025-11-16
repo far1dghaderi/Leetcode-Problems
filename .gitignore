@@ -74,7 +74,6 @@ logs/
 *.tsbuildinfo
 
 # Compiled JavaScript files
-*.js
 *.js.map
 !jest.config.js
 !*.config.js
